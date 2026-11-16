@@ -1,6 +1,6 @@
 # Laurentiu Ioan
 
-## Cybersecurity | Artificial Intelligence | Software Development
+## Cybersecurity | Artificial Intelligence | Software Development 
 
 Welcome to my GitHub portfolio.
 
