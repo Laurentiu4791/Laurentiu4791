@@ -1,16 +1,41 @@
-## Hi there 👋
+# Laurentiu Ioan
 
-<!--
-**Laurentiu4791/Laurentiu4791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity | Artificial Intelligence | Software Development
 
-Here are some ideas to get you started:
+Welcome to my GitHub portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I hold an MSc in Cyber Security and a BSc in Computing
+Technologies.
+
+My technical interests include artificial intelligence,
+cybersecurity, software engineering, and secure system design.
+
+## Featured Projects
+
+### AI Agent Laryx Core
+A modular AI assistant developed using Python,
+local language models, and knowledge retrieval technologies.
+
+### Laryx Programming Language
+An experimental programming language project focused
+on language architecture, syntax, and interpreter development.
+
+### Cybersecurity Research
+Research into cybersecurity frameworks, data protection,
+AI integration, and online safety in UK secondary schools.
+
+## Technical Skills
+
+- Python
+- Cybersecurity
+- Artificial Intelligence
+- Git and GitHub
+- SQL and SQLite
+- Network Security
+- Streamlit
+- Ollama and Local LLMs
+
+## Professional Interests
+
+AI Engineering | Cybersecurity Engineering |
+Secure Software Development
